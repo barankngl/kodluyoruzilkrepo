@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+![resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 # Installation
 
@@ -15,8 +16,9 @@ Projeyi klonladıktan sonra Vısual Studio Code programında açınız.
 
 ### Linux İçin
 ``
-cd kodluyoruzilkrepo
-code
+cd kodluyoruzilkrepo``
+
+``code
 ``
 # Contributing
 
